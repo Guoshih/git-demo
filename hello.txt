@@ -8,3 +8,4 @@ hello  git  123
 远程端修改代码
 测试SSH免密登录
 测试git  pull
+测试拉取pull功能
